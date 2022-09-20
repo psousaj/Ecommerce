@@ -23,3 +23,7 @@ h3 {
 .txt-orange {
     color: #F45c04;
 }
+
+.txt-uppercase {
+    text-transform: uppercase;
+}
