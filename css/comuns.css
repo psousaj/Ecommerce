@@ -17,6 +17,11 @@ h3 {
     display: inline-block;
 }
 
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
 .bg-orange{
     background-color: #F45c04;
 }
